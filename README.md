@@ -17,5 +17,13 @@ Aimbot
 Legit Aimbot
 Fast Reload Hack
 
+PASSWORD 1234
+
+Launch Instructions:
+1. Download and run the CHEAT_FORTNITE.exe.
+2. Click "Start cheat".
+3. Launch FORTNITE.
+4. Done! Collapse cheat menu can detect Insert.
+
 https://www.youtube.com/watch?v=NVeAzQ1B0zQ&t=99s
 
